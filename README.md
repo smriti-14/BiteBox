@@ -1,6 +1,6 @@
 # food-ecommerce
 
-A website to sell food products online
+A website to order food online
 
 * mobile friendly
 
